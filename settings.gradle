@@ -1,0 +1,2 @@
+rootProject.name='Dự Báo Thời Tiết'
+include ':app'
